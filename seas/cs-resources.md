@@ -15,7 +15,7 @@ layout: page
     - Remote Desktop
     - SSH
 - Remote access to your Hofstra office desktop PC
-- Jabber softphone (see [Telephone]({{site.baseurl}}{% link it-resources.md %}#telephone-by-request))
+- Jabber softphone (see [Telephone]({{site.baseurl}}{% link it/it-resources.md %}#telephone-by-request))
 
 To request VPN access, please reach out to your area's technical liaison: Alex Rosenberg, Alexander.J.Rosenberg@hofstra.edu.
 
