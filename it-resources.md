@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Resources for Working Remotely
 
 ## ITS Technical Support Services
