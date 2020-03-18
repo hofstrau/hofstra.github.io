@@ -36,7 +36,7 @@ To request VPN access, please reach out to your area's technical liaison: Alex R
 
 ## If You Don't Have a Hofstra Laptop
 
-**You can use your home computer and Internet connection to access many Hofstra services when you’re not on campus.**
+**You can use your home computer and Internet connection to access many Hofstra services when you’re not on campus.**<br>
 These services include:
 - Office 365 e-mail, [https://outlook.office.com](https://outlook.office.com)
 - OneDrive, [https://onedrive.live.com](https://onedrive.live.com)
