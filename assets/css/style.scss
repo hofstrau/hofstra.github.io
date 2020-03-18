@@ -30,6 +30,13 @@ body {
     color: #0070C0;
 }
 
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+/*
 @media (min-width: 768px) {
   .container {
       width: 750px;
@@ -45,11 +52,25 @@ body {
       width: 1170px;
   }
 }
-.container {
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
+*/
+@media screen and (min-width: 64em) {
+  .container {
+      max-width: 64rem;
+      padding-right: 6rem;
+      padding-left: 6rem;
+  }
+}
+@media screen and (max-width: 64em) and (min-width: 42em) {
+  .container {
+      padding-right: 4rem;
+      padding-left: 4rem;
+  }
+}
+@media screen and (max-width: 42em) {
+  .container {
+      padding-right: 1rem;
+      padding-left: 1rem;
+  }
 }
 .navbar {
     padding: 0;
@@ -60,6 +81,7 @@ body {
     float: left;
     height: 50px;
     padding: 12px 15px 15px 15px;
+    margin-left: -15px;
     font-size: 18px;
     line-height: 20px;
     max-width: 350px;
