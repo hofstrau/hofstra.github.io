@@ -4,13 +4,13 @@
 
 We have adjusted our ITS Help Desk schedule to better accommodate increased demand as faculty and students move online, and employees adjust to working remotely. Due to volume, you may experience longer hold times and other delays. Thank you in advance for your patience during this unique time.
 
-**Help Desk Analysts are available by phone (516-463-7777) and e-mail (help@hofstra.edu).**
-- When classes _are not_ in session, including this week: Monday through Friday from 8 a.m. to 5 p.m.
-- When classes _are_ in session, beginning Monday, 3/23: Monday through Thursday from 8 a.m. to 8 p.m., Friday from 8 a.m. to 5 p.m.
+**Help Desk Analysts are available by phone (516-463-7777) and e-mail ([help@hofstra.edu]).**
+- When classes <u>are not</u> in session, including this week: Monday through Friday from 8 a.m. to 5 p.m.
+- When classes <u>are</u> in session, beginning Monday, 3/23: Monday through Thursday from 8 a.m. to 8 p.m., Friday from 8 a.m. to 5 p.m.
 
-**Walk-in support will be offered _by appointment only_.**
+**Walk-in support will be offered <u>by appointment only</u>.**
 - Support will be limited to the hands-on preparation, deployment, and physical repair of Hofstra-owned laptops and other mobile devices.
-- Schedule an appointment at https://calendly.com/hofstraits/walkin
+- Schedule an appointment at [https://calendly.com/hofstraits/walkin]
 - All other technical support will be provided by phone or e-mail.
 
 ## If You Have a Hofstra Laptop
