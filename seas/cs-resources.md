@@ -6,17 +6,16 @@ layout: page
 
 ## VPN access
 
-**VPN access is required to access the University's network and select services from off campus.**<br>
-Services that require a [VPN connection](https://cs.hofstra.edu/docs/pages/guides/vpn_intro.html) include:
+[VPN access](https://cs.hofstra.edu/docs/pages/guides/vpn_intro.html) is required for remote access to the University's network and select services from off campus.
+
+**Services that require a VPN connection include:**
 - [Access to Big Data Lab virtual machines (VMs)](https://cs.hofstra.edu/docs/pages/guides/access_vms.html)
     - VMware vSphere, [https://vc1-h5.cs.hofstra.edu](https://vc1-h5.cs.hofstra.edu)
     - OpenNebula, [https://one.cs.hofstra.edu](https://one.cs.hofstra.edu)
     - Remote Desktop
     - SSH
 - Remote access to your Hofstra office desktop PC
-- Jabber softphone (see [Telephone](it-resources.html#telephone-by-request))
-
-**You must install a VPN client and connect to the CS VPN to remotely access the Big Data Lab.**
+- Jabber softphone (see [Telephone]({{site.baseurl}}{% link it-resources.md %}#telephone-by-request))
 
 To request VPN access, please reach out to your area's technical liaison: Alex Rosenberg, Alexander.J.Rosenberg@hofstra.edu.
 
