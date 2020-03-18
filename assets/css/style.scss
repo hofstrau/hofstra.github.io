@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
+body {
+    font-family: "Calibri",sans-serif;
+    font-size: 11.0pt;
+    color: #201f1e;
+}
+
 .project-name {
     font-family: 'Lato', 'lato', arial, helvetica;
 }
@@ -12,6 +18,11 @@
     background-image: none;
 }
 
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+.main-content h1 {
     color: #13579a;
 }
+
+.main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    color: #0070C0;
+}
+
