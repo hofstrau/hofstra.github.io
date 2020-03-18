@@ -4,23 +4,23 @@
 
 We have adjusted our ITS Help Desk schedule to better accommodate increased demand as faculty and students move online, and employees adjust to working remotely. Due to volume, you may experience longer hold times and other delays. Thank you in advance for your patience during this unique time.
 
-**Help Desk Analysts are available by phone (516-463-7777) and e-mail ([help@hofstra.edu]).**
+**Help Desk Analysts are available by phone (516-463-7777) and e-mail ([help@hofstra.edu](mailto:help@hofstra.edu)).**
 - When classes <u>are not</u> in session, including this week: Monday through Friday from 8 a.m. to 5 p.m.
 - When classes <u>are</u> in session, beginning Monday, 3/23: Monday through Thursday from 8 a.m. to 8 p.m., Friday from 8 a.m. to 5 p.m.
 
 **Walk-in support will be offered <u>by appointment only</u>.**
 - Support will be limited to the hands-on preparation, deployment, and physical repair of Hofstra-owned laptops and other mobile devices.
-- Schedule an appointment at [https://calendly.com/hofstraits/walkin]
+- Schedule an appointment at [https://calendly.com/hofstraits/walkin](https://calendly.com/hofstraits/walkin)
 - All other technical support will be provided by phone or e-mail.
 
 ## If You Have a Hofstra Laptop
 
-**You can connect your Hofstra laptop to your home Internet connection to access many Hofstra services when you’re not on campus.**
+**You can connect your Hofstra laptop to your home Internet connection to access many Hofstra services when you’re not on campus.**<br>
 These services include:
-- Office 365 e-mail, https://outlook.office.com
-- OneDrive, https://onedrive.live.com
-- Zoom, https://hofstra.zoom.us
-- My Hofstra, https://my.hofstra.edu
+- Office 365 e-mail, [https://outlook.office.com](https://outlook.office.com)
+- OneDrive, [https://onedrive.live.com](https://onedrive.live.com)
+- Zoom, [https://hofstra.zoom.us](https://hofstra.zoom.us)
+- My Hofstra, [https://my.hofstra.edu](https://my.hofstra.edu)
 
 **You will need to request VPN access, and install the Hofstra VPN client on your Hofstra computer to access any of the following:**
 - Jabber softphone (see Telephone, below)
@@ -34,10 +34,10 @@ To request VPN access, please reach out to your area's technical liaison: Alex R
 
 **You can use your home computer and Internet connection to access many Hofstra services when you’re not on campus.**
 These services include:
-- Office 365 e-mail, https://outlook.office.com
-- OneDrive, https://onedrive.live.com
-- Zoom, https://hofstra.zoom.us
-- My Hofstra, https://my.hofstra.edu
+- Office 365 e-mail, [https://outlook.office.com](https://outlook.office.com)
+- OneDrive, [https://onedrive.live.com](https://onedrive.live.com)
+- Zoom, [https://hofstra.zoom.us](https://hofstra.zoom.us)
+- My Hofstra, [https://my.hofstra.edu](https://my.hofstra.edu)
 
 **You will need to request VPN access, and install the Hofstra VPN client on your personal computer to access any of the following:**
 - Jabber softphone (see Telephone, below)
@@ -51,9 +51,9 @@ To request VPN access, please reach out to your area's technical liaison: Alex R
 ## Video and Audio Conferencing with Zoom
 
 **All Hofstra faculty, employees, and students have access to Zoom for on-demand video conferencing, screen sharing, and audio conferencing, including an option to dial in from a cell phone or landline.**
-- Access Zoom at https://hofstra.zoom.us
-- Training materials specifically for Hofstra faculty are available at https://www.hofstra.edu/about/it/it-remote-faculty.html
-- A getting started guide for Zoom is available at https://support.zoom.us/hc/en-us/categories/200101697
+- Access Zoom at [https://hofstra.zoom.us](https://hofstra.zoom.us)
+- Training materials specifically for Hofstra faculty are available at [https://www.hofstra.edu/about/it/it-remote-faculty.html](https://www.hofstra.edu/about/it/it-remote-faculty.html)
+- A getting started guide for Zoom is available at [https://support.zoom.us/hc/en-us/categories/200101697](https://support.zoom.us/hc/en-us/categories/200101697)
 
 ## Telephone (By Request)
 
