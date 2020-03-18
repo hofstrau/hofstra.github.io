@@ -3,7 +3,15 @@
 
 @import "{{ site.theme }}";
 
+.project-name {
+    font-family: 'Lato', 'lato', arial, helvetica;
+}
+
 .page-header {
     background-color: #13589b;
     background-image: none;
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    color: #13579a;
 }
