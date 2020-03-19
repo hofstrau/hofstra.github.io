@@ -21,10 +21,12 @@ We have adjusted our ITS Help Desk schedule to better accommodate increased dema
 
 **You can connect your Hofstra laptop to your home Internet connection to access many Hofstra services when you’re not on campus.**<br>
 These services include:
-- Office 365 e-mail, [https://outlook.office.com](https://outlook.office.com)
+- Office 365 e-mail, [https://email.hofstra.edu](https://email.hofstra.edu)
+- Google Drive, [https://drive.google.com](https://my.hofstra.edu/hofapps/applications/google/index.jsp?gservice=docs)
 - OneDrive, [https://onedrive.live.com](https://onedrive.live.com)
 - Zoom, [https://hofstra.zoom.us](https://hofstra.zoom.us)
 - My Hofstra, [https://my.hofstra.edu](https://my.hofstra.edu)
+- Blackboard, [https://hofstra.blackboard.com/](https://hofstra.blackboard.com/)
 
 **You will need to request VPN access, and install the Hofstra VPN client on your Hofstra computer to access any of the following:**
 - Jabber softphone (see Telephone, below)
@@ -38,10 +40,12 @@ To request VPN access, please reach out to your area's technical liaison: Alex R
 
 **You can use your home computer and Internet connection to access many Hofstra services when you’re not on campus.**<br>
 These services include:
-- Office 365 e-mail, [https://outlook.office.com](https://outlook.office.com)
+- Office 365 e-mail, [https://email.hofstra.edu](https://email.hofstra.edu)
+- Google Drive, [https://drive.google.com](https://my.hofstra.edu/hofapps/applications/google/index.jsp?gservice=docs)
 - OneDrive, [https://onedrive.live.com](https://onedrive.live.com)
 - Zoom, [https://hofstra.zoom.us](https://hofstra.zoom.us)
 - My Hofstra, [https://my.hofstra.edu](https://my.hofstra.edu)
+- Blackboard, [https://hofstra.blackboard.com/](https://hofstra.blackboard.com/)
 
 **You will need to request VPN access, and install the Hofstra VPN client on your personal computer to access any of the following:**
 - Jabber softphone (see Telephone, below)
